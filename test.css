@@ -1,0 +1,68 @@
+body {
+   
+width: 100vw;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div-sec{
+     display:none;
+width: 100%;
+    margin: 2.75em;
+    float: right;
+    justify-content: center;
+column-gap: 30px;
+    background-color: rgb(35, 167, 23);
+    display: flex;
+}
+.b{
+    height:150px;
+    width: auto;
+}
+
+.s{
+    height:150px;
+    width: auto;
+}
+
+img {
+
+    width: 150px;
+    height: auto;
+}
+
+
+.sec{
+    display:none;
+
+   
+}
+
+p{
+    font-weight: bold;
+    font-size: 1.35rem;
+   width: 100%;
+   text-align: center;
+
+text-transform: uppercase;
+text-decoration: double;
+   float: left;
+   margin-top: 20px;
+   /**/ 
+}
+
+span:active{
+background: red;
+}
+
+.header{
+
+    width: auto;
+    margin-top: 2px;
+    text-align: center;
+}
+input{
+    width: 350px;
+    font-weight: bolder;
+}
